@@ -1,0 +1,5 @@
+feast
+scikit-learn
+seaborn
+pandas
+jupyter
